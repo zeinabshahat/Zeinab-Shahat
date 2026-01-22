@@ -63,7 +63,6 @@ SignalR, JWT, REST APIs
   <img title=".NET Core" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"/>
   <img title="ASP.NET" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"/>
   <img title="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"/>
-  <img title="Entity Framework Core" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/entity-framework/entity-framework.png"/>
   <img title="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"/>
   <img title="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png"/>
 </p>
@@ -86,21 +85,13 @@ SignalR, JWT, REST APIs
 
 <hr/>
 
-<h2>📊 GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
-</p>
-
-<hr/>
-
 <h2>🤝 Let's Connect</h2>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/zeinab-shahat-75b93a26a/">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"/>
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/zeinabshahat">
     <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="40"/>
   </a>
 </p>
